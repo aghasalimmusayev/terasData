@@ -184,5 +184,43 @@
                 "check"
             ]
         }
+    ],
+    "Users": [
+        {
+            "id": "az1XYldGICM7eZIsmnnTV",
+            "name": "Agasalim",
+            "surname": "Musayev",
+            "phone": "994773997811",
+            "email": "aga77ams@gmail.com",
+            "password": "AM103068s",
+            "gender": "male",
+            "created": "Sun Jun 22 2025",
+            "role": "SuperAdmin",
+            "active": true
+        },
+        {
+            "id": "J7gIaLEhEwEybg3yJHqv3",
+            "name": "Mehdi",
+            "surname": "Musayev",
+            "phone": "994515997811",
+            "email": "mehdi2019@gmail.com",
+            "password": "mehdi2019",
+            "gender": "male",
+            "created": "Thu Jun 26 2025",
+            "role": "user",
+            "active": true
+        },
+        {
+            "id": "es4svD5lc4Nn_b6OYKamc",
+            "name": "Leyla",
+            "surname": "Musayeva",
+            "phone": "994558997811",
+            "email": "leyla2016@gmail.com",
+            "password": "leyla2016",
+            "gender": "female",
+            "created": "Thu Jun 26 2025",
+            "role": "user",
+            "active": true
+        }
     ]
 }
