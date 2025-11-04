@@ -1,4 +1,189 @@
 {
+    "popularAxtaris": [
+        "Memar Əcəmidə evlər",
+        "Həyət evləri",
+        "İnşaatçılarda ev",
+        "Qarajlar",
+        "Bağ evləri",
+        "Həyət evləri",
+        "Villalar"
+    ],
+    "agentlikler": [
+        {
+            "id": 1001,
+            "ad": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT12UlRHY0WUryxry0OrYBUyyPTafUVio5V4Q&s",
+            "sekil": "",
+            "teklif": 125
+        },
+        {
+            "id": 1002,
+            "ad": "Kings Home",
+            "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvEeefpbuj4h4UwkAwQaiEbmbgP1y71YBfIw&s",
+            "teklif": 98
+        },
+        {
+            "id": 1003,
+            "ad": "Home Haven Realty",
+            "sekil": "https://s3-media0.fl.yelpcdn.com/bphoto/Aogp4YnHgFCiCsplDPYKhg/348s.jpg",
+            "teklif": 73
+        },
+        {
+            "id": 1004,
+            "ad": "The Address Luxury Property",
+            "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWg22vCkRwxOKysFrlp5BraW_CHg0TxgzVlA&s",
+            "teklif": 142
+        },
+        {
+            "id": 1005,
+            "ad": "Monolit Real Estate",
+            "sekil": "https://www.adelhome.az/storage/logos/1730396238.jpg",
+            "teklif": 61
+        },
+        {
+            "id": 1006,
+            "ad": "Signature Realty",
+            "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-GETjxdut_4Tx_9rPX6EhLNGL8X1seUlUKA&s",
+            "teklif": 87
+        },
+        {
+            "id": 1007,
+            "ad": "Royal Estate",
+            "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzetkCe6tLrSKSMazap1RD2i-qnbX9PKkv1A&s",
+            "teklif": 54
+        },
+        {
+            "id": 1008,
+            "ad": "Blue Sky Properties",
+            "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtET6nfYqrn0qVWiaC9Lk4Yl8Z0bBoR4Tfzw&s",
+            "teklif": 39
+        },
+        {
+            "id": 1009,
+            "ad": "Golden Key Estates",
+            "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz7Y3GNX5XI8l1qoLXJEjcRyWF3i87IWfmIQ&s",
+            "teklif": 112
+        },
+        {
+            "id": 1010,
+            "ad": "Urban Nest Realty",
+            "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNRt-FgiC_2CBhNCAEvbCUasL2u5gOk4L_nEwVL2tCnkvuOCdhkd76uLWv_105WO-Eag4&usqp=CAU",
+            "teklif": 46
+        },
+        {
+            "id": 1011,
+            "ad": "Capital City Realty",
+            "sekil": "https://s3-media0.fl.yelpcdn.com/bphoto/072sqor2Tw1SnajzCedSFw/l.jpg",
+            "teklif": 69
+        },
+        {
+            "id": 1012,
+            "ad": "Nova Homes",
+            "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMY_2jZQbR9iRnHKebV5Pc2mENETesflEtA&s",
+            "teklif": 33
+        }
+    ],
+    "yasayisKompleksleri": [
+        {
+            "id": "yk1001A",
+            "ad": "Teras Park",
+            "sekil": "./Source/teraspark.png",
+            "qiymet": 181200,
+            "sirket": "SR Construction",
+            "tehvil": "Təhvil verilib",
+            "rayon": "Binəqədi r.",
+            "metro": "Azadlıq metrosu"
+        },
+        {
+            "id": "yk1002B",
+            "ad": "White City Residence",
+            "sekil": "./Source/whitecity.png",
+            "qiymet": 220000,
+            "sirket": "AzInşaat Group",
+            "tehvil": "2026",
+            "rayon": "Xətai r.",
+            "metro": "Koroğlu metrosu"
+        },
+        {
+            "id": "yk1003C",
+            "ad": "Panorama Park",
+            "sekil": "./Source/panorama.png",
+            "qiymet": 164500,
+            "sirket": "Nova Development",
+            "tehvil": "2027",
+            "rayon": "Yasamal r.",
+            "metro": "Elmlər Akademiyası"
+        },
+        {
+            "id": "yk1004D",
+            "ad": "Green City",
+            "sekil": "./Source/greencity.png",
+            "qiymet": 198000,
+            "sirket": "Baku Invest",
+            "tehvil": "Təhvil verilib",
+            "rayon": "Sabunçu r.",
+            "metro": "Koroğlu metrosu"
+        },
+        {
+            "id": "yk1005E",
+            "ad": "Sea Breeze Residence",
+            "sekil": "./Source/seabreeze.png",
+            "qiymet": 350000,
+            "sirket": "Sabay Group",
+            "tehvil": "2025",
+            "rayon": "Xəzər r.",
+            "metro": "Həzi Aslanov"
+        },
+        {
+            "id": "yk1006F",
+            "ad": "Lake View Park",
+            "sekil": "./Source/lakeview.png",
+            "qiymet": 179900,
+            "sirket": "Crystal Construction",
+            "tehvil": "2028",
+            "rayon": "Suraxanı r.",
+            "metro": "Qara Qarayev"
+        },
+        {
+            "id": "yk1007G",
+            "ad": "Metro City",
+            "sekil": "./Source/metrocity.png",
+            "qiymet": 210500,
+            "sirket": "Union Build",
+            "tehvil": "2026",
+            "rayon": "Nəsimi r.",
+            "metro": "28 May"
+        },
+        {
+            "id": "yk1008H",
+            "ad": "Renessans Residence",
+            "sekil": "./Source/renessans.png",
+            "qiymet": 265000,
+            "sirket": "Elegant Construction",
+            "tehvil": "Təhvil verilib",
+            "rayon": "Nərimanov r.",
+            "metro": "Gənclik"
+        },
+        {
+            "id": "yk1009J",
+            "ad": "Skyline Towers",
+            "sekil": "./Source/skyline.png",
+            "qiymet": 295000,
+            "sirket": "SkyGroup MMC",
+            "tehvil": "2027",
+            "rayon": "Səbail r.",
+            "metro": "İçərişəhər"
+        },
+        {
+            "id": "yk1010K",
+            "ad": "Yeni Həyat Park",
+            "sekil": "./Source/yeniheyat.png",
+            "qiymet": 189000,
+            "sirket": "YH Construction",
+            "tehvil": "2026",
+            "rayon": "Xətai r.",
+            "metro": "Həzi Aslanov"
+        }
+    ],
     "evler": [
         {
             "id": "e1a9f001",
@@ -9,7 +194,7 @@
             "sahe": 80,
             "mertebe": "5/9",
             "elan_date": "2025-05-16",
-            "sekil": "https://i.imgur.com/ya6qf32.jpg",
+            "sekil": "https://www.bhg.com/thmb/H9VV9JNnKl-H1faFXnPlQfNprYw=/1799x0/filters:no_upscale():strip_icc()/white-modern-house-curved-patio-archway-c0a4a3b3-aa51b24d14d0464ea15d36e05aa85ac9.jpg",
             "agentlik": "Henry Group",
             "ferqli": [
                 "diamond",
@@ -27,7 +212,7 @@
             "sahe": 95,
             "mertebe": "7/12",
             "elan_date": "2025-04-22",
-            "sekil": "https://i.imgur.com/T4rJv0k.jpg",
+            "sekil": "https://hips.hearstapps.com/hmg-prod/images/dutch-colonial-house-style-66956274903da.jpg?crop=1.00xw:0.671xh;0,0.131xh&resize=1120:*",
             "agentlik": "SR Construction",
             "ferqli": [
                 "check"
@@ -42,7 +227,7 @@
             "sahe": 100,
             "mertebe": "4/10",
             "elan_date": "2025-03-05",
-            "sekil": "https://i.imgur.com/Z3D1YJu.jpg",
+            "sekil": "https://thermohouse.ie/wp-content/uploads/2019/04/hero-image.jpg",
             "agentlik": "Monolit Real Estate",
             "ferqli": [
                 "percent"
@@ -57,7 +242,7 @@
             "sahe": 135,
             "mertebe": "10/16",
             "elan_date": "2025-05-10",
-            "sekil": "https://i.imgur.com/n7BqJ1G.jpg",
+            "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZPyMaLR6ZJNlIH2-mABajjOxvQzarOxYpphDR2ncCbF26RuafZ5TIbi6UtOGgjfx78ao&usqp=CAU",
             "agentlik": "Signature Realty",
             "ferqli": [
                 "diamond",
@@ -73,7 +258,7 @@
             "sahe": 200,
             "mertebe": "1",
             "elan_date": "2025-01-15",
-            "sekil": "https://i.imgur.com/2L9E7iT.jpg",
+            "sekil": "https://www.thehousedesigners.com/images/plans/01/URD/bulk/6583/the-destination-front-rendering_m.webp",
             "agentlik": "Home Haven Realty",
             "ferqli": [
                 "king",
@@ -89,7 +274,7 @@
             "sahe": 75,
             "mertebe": "3/9",
             "elan_date": "2025-02-02",
-            "sekil": "https://i.imgur.com/zmTTeEZ.jpg",
+            "sekil": "https://cdn11.bigcommerce.com/s-g95xg0y1db/images/stencil/1280x1280/g/modern%20house%20plan%20-%20carbondale__05776.original.jpg",
             "agentlik": "Kings Home",
             "ferqli": [
                 "percent"
@@ -104,7 +289,7 @@
             "sahe": 70,
             "mertebe": "8/12",
             "elan_date": "2025-04-01",
-            "sekil": "https://i.imgur.com/4fZ3dpE.jpg",
+            "sekil": "https://www.thehousedesigners.com/images/plans/01/URD/bulk/6630/the-sunset-1-front-elevated-elevation_m.webp",
             "agentlik": "The Address Luxury",
             "ferqli": []
         },
@@ -117,7 +302,7 @@
             "sahe": 65,
             "mertebe": "2/9",
             "elan_date": "2025-03-12",
-            "sekil": "https://i.imgur.com/DiySbdH.jpg",
+            "sekil": "https://cdn.houseplansservices.com/product/qileoarqr7qk6oek5u3r39vof7/w300x200.jpg?v=5",
             "agentlik": "Henry Group",
             "ferqli": [
                 "diamond"
@@ -132,7 +317,7 @@
             "sahe": 210,
             "mertebe": "5/7",
             "elan_date": "2025-04-28",
-            "sekil": "https://i.imgur.com/8MTxAYE.jpg",
+            "sekil": "https://media.istockphoto.com/id/2159247990/photo/front-view-of-modern-style-small-cottage-house-on-the-green-lawn-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=gnHL_022aV03ZpQApKdky5JLVjZEIFrc2u7xpaGnsE4=",
             "agentlik": "Signature Realty",
             "ferqli": [
                 "king",
@@ -148,7 +333,7 @@
             "sahe": 50,
             "mertebe": "2/5",
             "elan_date": "2025-05-25",
-            "sekil": "https://i.imgur.com/yzAKHyt.jpg",
+            "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnw_9oTo7gfdqd_E6H2-Yns86EZn6nav1Q4Q&s",
             "agentlik": "Home Haven Realty",
             "ferqli": []
         },
@@ -161,7 +346,7 @@
             "sahe": 100,
             "mertebe": "8/16",
             "elan_date": "2025-06-10",
-            "sekil": "https://i.imgur.com/B9Re4zT.jpg",
+            "sekil": "https://assets-news.housing.com/news/wp-content/uploads/2022/03/31010142/Luxury-house-design-Top-10-tips-to-add-luxury-to-your-house-FEATURE-compressed-686x400.jpg",
             "agentlik": "Kings Home",
             "ferqli": [
                 "check"
@@ -176,7 +361,7 @@
             "sahe": 300,
             "mertebe": "2",
             "elan_date": "2025-07-19",
-            "sekil": "https://i.imgur.com/MkkPqR9.jpg",
+            "sekil": "https://medias.renoassistance.ca/image/upload/w_1024,h_575,c_fill,f_auto,q_auto/v1730239142/renoassistance/residential/articles/2023-12/styles-de-maison/Modern-house-with-pool.jpg",
             "agentlik": "Monolit Real Estate",
             "ferqli": [
                 "diamond",
