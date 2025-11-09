@@ -193,9 +193,11 @@
             "otaq": 2,
             "sahe": 80,
             "mertebe": "5/9",
-            "elan_date": "2025-05-16",
+            "elan_date": "2025.05.16",
             "sekil": "https://www.bhg.com/thmb/H9VV9JNnKl-H1faFXnPlQfNprYw=/1799x0/filters:no_upscale():strip_icc()/white-modern-house-curved-patio-archway-c0a4a3b3-aa51b24d14d0464ea15d36e05aa85ac9.jpg",
             "agentlik": "Henry Group",
+            "vip": true,
+            "premium": true,
             "ferqli": [
                 "diamond",
                 "king",
@@ -211,9 +213,11 @@
             "otaq": 3,
             "sahe": 95,
             "mertebe": "7/12",
-            "elan_date": "2025-04-22",
+            "elan_date": "2025.04.22",
             "sekil": "https://hips.hearstapps.com/hmg-prod/images/dutch-colonial-house-style-66956274903da.jpg?crop=1.00xw:0.671xh;0,0.131xh&resize=1120:*",
             "agentlik": "SR Construction",
+            "vip": true,
+            "premium": true,
             "ferqli": [
                 "check"
             ]
@@ -226,9 +230,11 @@
             "otaq": 3,
             "sahe": 100,
             "mertebe": "4/10",
-            "elan_date": "2025-03-05",
+            "elan_date": "2025.03.05",
             "sekil": "https://thermohouse.ie/wp-content/uploads/2019/04/hero-image.jpg",
             "agentlik": "Monolit Real Estate",
+            "vip": true,
+            "premium": true,
             "ferqli": [
                 "percent"
             ]
@@ -241,9 +247,11 @@
             "otaq": 4,
             "sahe": 135,
             "mertebe": "10/16",
-            "elan_date": "2025-05-10",
+            "elan_date": "2025.05.10",
             "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZPyMaLR6ZJNlIH2-mABajjOxvQzarOxYpphDR2ncCbF26RuafZ5TIbi6UtOGgjfx78ao&usqp=CAU",
             "agentlik": "Signature Realty",
+            "vip": true,
+            "premium": true,
             "ferqli": [
                 "diamond",
                 "check"
@@ -257,9 +265,11 @@
             "otaq": 5,
             "sahe": 200,
             "mertebe": "1",
-            "elan_date": "2025-01-15",
+            "elan_date": "2025.01.15",
             "sekil": "https://www.thehousedesigners.com/images/plans/01/URD/bulk/6583/the-destination-front-rendering_m.webp",
             "agentlik": "Home Haven Realty",
+            "vip": true,
+            "premium": true,
             "ferqli": [
                 "king",
                 "check"
@@ -273,9 +283,11 @@
             "otaq": 2,
             "sahe": 75,
             "mertebe": "3/9",
-            "elan_date": "2025-02-02",
+            "elan_date": "2025.02.02",
             "sekil": "https://cdn11.bigcommerce.com/s-g95xg0y1db/images/stencil/1280x1280/g/modern%20house%20plan%20-%20carbondale__05776.original.jpg",
             "agentlik": "Kings Home",
+            "vip": true,
+            "premium": true,
             "ferqli": [
                 "percent"
             ]
@@ -288,9 +300,11 @@
             "otaq": 2,
             "sahe": 70,
             "mertebe": "8/12",
-            "elan_date": "2025-04-01",
+            "elan_date": "2025.04.01",
             "sekil": "https://www.thehousedesigners.com/images/plans/01/URD/bulk/6630/the-sunset-1-front-elevated-elevation_m.webp",
             "agentlik": "The Address Luxury",
+            "vip": true,
+            "premium": true,
             "ferqli": []
         },
         {
@@ -301,9 +315,11 @@
             "otaq": 2,
             "sahe": 65,
             "mertebe": "2/9",
-            "elan_date": "2025-03-12",
+            "elan_date": "2025.03.12",
             "sekil": "https://cdn.houseplansservices.com/product/qileoarqr7qk6oek5u3r39vof7/w300x200.jpg?v=5",
             "agentlik": "Henry Group",
+            "vip": true,
+            "premium": true,
             "ferqli": [
                 "diamond"
             ]
@@ -316,9 +332,11 @@
             "otaq": 5,
             "sahe": 210,
             "mertebe": "5/7",
-            "elan_date": "2025-04-28",
+            "elan_date": "2025.04.28",
             "sekil": "https://media.istockphoto.com/id/2159247990/photo/front-view-of-modern-style-small-cottage-house-on-the-green-lawn-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=gnHL_022aV03ZpQApKdky5JLVjZEIFrc2u7xpaGnsE4=",
             "agentlik": "Signature Realty",
+            "vip": true,
+            "premium": true,
             "ferqli": [
                 "king",
                 "diamond"
@@ -332,9 +350,11 @@
             "otaq": 1,
             "sahe": 50,
             "mertebe": "2/5",
-            "elan_date": "2025-05-25",
+            "elan_date": "2025.05.25",
             "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnw_9oTo7gfdqd_E6H2-Yns86EZn6nav1Q4Q&s",
             "agentlik": "Home Haven Realty",
+            "vip": true,
+            "premium": true,
             "ferqli": []
         },
         {
@@ -345,9 +365,11 @@
             "otaq": 3,
             "sahe": 100,
             "mertebe": "8/16",
-            "elan_date": "2025-06-10",
+            "elan_date": "2025.06.10",
             "sekil": "https://assets-news.housing.com/news/wp-content/uploads/2022/03/31010142/Luxury-house-design-Top-10-tips-to-add-luxury-to-your-house-FEATURE-compressed-686x400.jpg",
             "agentlik": "Kings Home",
+            "vip": true,
+            "premium": true,
             "ferqli": [
                 "check"
             ]
@@ -360,12 +382,356 @@
             "otaq": 6,
             "sahe": 300,
             "mertebe": "2",
-            "elan_date": "2025-07-19",
-            "sekil": "https://medias.renoassistance.ca/image/upload/w_1024,h_575,c_fill,f_auto,q_auto/v1730239142/renoassistance/residential/articles/2023-12/styles-de-maison/Modern-house-with-pool.jpg",
+            "elan_date": "2025.07.19",
+            "sekil": "https://www.bhg.com/thmb/H9VV9JNnKl-H1faFXnPlQfNprYw=/1799x0/filters:no_upscale():strip_icc()/white-modern-house-curved-patio-archway-c0a4a3b3-aa51b24d14d0464ea15d36e05aa85ac9.jpg",
             "agentlik": "Monolit Real Estate",
+            "vip": true,
+            "premium": true,
             "ferqli": [
                 "diamond",
                 "king",
+                "check"
+            ]
+        },
+        {
+            "id": "e1a9f013",
+            "tip": "Satış",
+            "qiymet": 185000,
+            "unvan": "Xətai r., Nargilə k.",
+            "otaq": 3,
+            "sahe": 110,
+            "mertebe": "6/12",
+            "elan_date": "2025.05.08",
+            "sekil": "https://saterdesign.com/cdn/shop/files/9024-Main-Image_1600x.jpg?v=1744743942",
+            "agentlik": "Elite Home",
+            "vip": true,
+            "premium": true,
+            "ferqli": [
+                "check",
+                "percent"
+            ]
+        },
+        {
+            "id": "e1a9f014",
+            "tip": "Kirayə",
+            "qiymet": 950,
+            "unvan": "Nərimanov r., Təbriz küç.",
+            "otaq": 4,
+            "sahe": 120,
+            "mertebe": "9/14",
+            "elan_date": "2025.06.02",
+            "sekil": "https://thermohouse.ie/wp-content/uploads/2019/04/hero-image.jpg",
+            "agentlik": "Urban Properties",
+            "vip": true,
+            "premium": true,
+            "ferqli": [
+                "king"
+            ]
+        },
+        {
+            "id": "e1a9f015",
+            "tip": "Gündəlik kirayə",
+            "qiymet": 55,
+            "unvan": "28 May m., Nəsimi r.",
+            "otaq": 1,
+            "sahe": 45,
+            "mertebe": "4/9",
+            "elan_date": "2025.04.18",
+            "sekil": "https://houseplans.co/media/cached_assets/images/house_plan_images/1168ESrd_900x600.jpg",
+            "agentlik": "City Stay",
+            "vip": true,
+            "premium": true,
+            "ferqli": []
+        },
+        {
+            "id": "e1a9f016",
+            "tip": "Satış",
+            "qiymet": 265000,
+            "unvan": "Nizami r., Qara Qarayev pr.",
+            "otaq": 4,
+            "sahe": 140,
+            "mertebe": "12/16",
+            "elan_date": "2025.05.30",
+            "sekil": "https://assets-news.housing.com/news/wp-content/uploads/2022/03/31010142/Luxury-house-design-Top-10-tips-to-add-luxury-to-your-house-FEATURE-compressed.jpg",
+            "agentlik": "Home Haven Realty",
+            "vip": true,
+            "premium": true,
+            "ferqli": [
+                "diamond"
+            ]
+        },
+        {
+            "id": "e1a9f017",
+            "tip": "Bağ evi",
+            "qiymet": 420000,
+            "unvan": "Şüvəlan qəs., dəniz kənarı",
+            "otaq": 5,
+            "sahe": 260,
+            "mertebe": "1",
+            "elan_date": "2025.03.10",
+            "sekil": "https://usvintagewood.com/wp-content/uploads/2021/05/image1-1024x683.jpg",
+            "agentlik": "Azure Realty",
+            "vip": true,
+            "premium": true,
+            "ferqli": [
+                "diamond",
+                "check"
+            ]
+        },
+        {
+            "id": "e1a9f018",
+            "tip": "Kirayə",
+            "qiymet": 780,
+            "unvan": "Gənclik m., A.Manafov küç.",
+            "otaq": 3,
+            "sahe": 90,
+            "mertebe": "5/9",
+            "elan_date": "2025.02.25",
+            "sekil": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpg",
+            "agentlik": "Signature Realty",
+            "vip": true,
+            "premium": true,
+            "ferqli": [
+                "percent"
+            ]
+        },
+        {
+            "id": "e1a9f019",
+            "tip": "Yeni tikili",
+            "qiymet": 210000,
+            "unvan": "Xırdalan ş., AAAF Park yaxınlığı",
+            "otaq": 3,
+            "sahe": 115,
+            "mertebe": "9/14",
+            "elan_date": "2025.06.18",
+            "sekil": "https://webberstudio.com/wp-content/uploads/2023/02/Stunning-House-Design.jpg",
+            "agentlik": "SR Construction",
+            "vip": true,
+            "premium": true,
+            "ferqli": []
+        },
+        {
+            "id": "e1a9f020",
+            "tip": "Gündəlik kirayə",
+            "qiymet": 80,
+            "unvan": "Elmlər Akademiyası m., Yasamal",
+            "otaq": 2,
+            "sahe": 60,
+            "mertebe": "3/5",
+            "elan_date": "2025.07.01",
+            "sekil": "https://www.thehousedesigners.com/images/plans/01/UDC/bulk/7295/e276-gao_residence_view1_m.webp",
+            "agentlik": "City Stay",
+            "vip": true,
+            "premium": true,
+            "ferqli": [
+                "check"
+            ]
+        },
+        {
+            "id": "e1a9f021",
+            "tip": "Satış",
+            "qiymet": 195000,
+            "unvan": "Masazır qəs., Qurtuluş-93",
+            "otaq": 4,
+            "sahe": 125,
+            "mertebe": "2",
+            "elan_date": "2025.05.20",
+            "sekil": "https://unique-residence.com/wp-content/uploads/2024/03/COTTAGE_HOUSE_www_1.jpg",
+            "agentlik": "Monolit Real Estate",
+            "vip": true,
+            "premium": true,
+            "ferqli": [
+                "diamond"
+            ]
+        },
+        {
+            "id": "e1a9f022",
+            "tip": "Premium satış",
+            "qiymet": 510000,
+            "unvan": "Səbail r., Neftçilər pr.",
+            "otaq": 6,
+            "sahe": 320,
+            "mertebe": "7/9",
+            "elan_date": "2025.07.05",
+            "sekil": "https://www.thehousedesigners.com/images/plans/01/UDC/bulk/7295/e276-gao_residence_view1_m.webp",
+            "agentlik": "Elite Home",
+            "vip": true,
+            "premium": true,
+            "ferqli": [
+                "king",
+                "diamond",
+                "check"
+            ]
+        },
+        {
+            "id": "e1a9f023",
+            "tip": "Bağ evi",
+            "qiymet": 370000,
+            "unvan": "Novxanı qəs., dəniz kənarı",
+            "otaq": 5,
+            "sahe": 240,
+            "mertebe": "2",
+            "elan_date": "2025.04.11",
+            "sekil": "https://cdn.houseplansservices.com/content/nnuc3cqgs1456ts5tmv80464of/w991x660.jpg?v=9",
+            "agentlik": "Home Haven Realty",
+            "vip": true,
+            "premium": true,
+            "ferqli": [
+                "diamond",
+                "percent"
+            ]
+        },
+        {
+            "id": "e1a9f024",
+            "tip": "Kirayə",
+            "qiymet": 650,
+            "unvan": "Əhmədli m., Nizami r.",
+            "otaq": 2,
+            "sahe": 75,
+            "mertebe": "6/9",
+            "elan_date": "2025.05.28",
+            "sekil": "https://cdn.houseplansservices.com/content/nnuc3cqgs1456ts5tmv80464of/w991x660.jpg?v=9",
+            "agentlik": "Kings Home",
+            "vip": true,
+            "premium": true,
+            "ferqli": [
+                "check"
+            ]
+        },
+        {
+            "id": "e1a9f025",
+            "tip": "Gündəlik kirayə",
+            "qiymet": 70,
+            "unvan": "Nəsimi r., 28 May küç.",
+            "otaq": 2,
+            "sahe": 65,
+            "mertebe": "2/6",
+            "elan_date": "2025.07.09",
+            "sekil": "https://d3qyu496o2hwvq.cloudfront.net/wp-content/uploads/2016/06/FG44850-707x475.jpg",
+            "agentlik": "Urban Properties",
+            "vip": true,
+            "premium": true,
+            "ferqli": []
+        },
+        {
+            "id": "e1a9f026",
+            "tip": "Satış",
+            "qiymet": 330000,
+            "unvan": "Buzovna qəs., əsas yol kənarı",
+            "otaq": 5,
+            "sahe": 220,
+            "mertebe": "1",
+            "elan_date": "2025.06.25",
+            "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsMBw2INpbR6AMQaoxlxDhSRbm6G10Nf_oDI0dH1ZCQa98IYw106eK6NPfWaLMgw4lAsE&usqp=CAU",
+            "agentlik": "SR Construction",
+            "vip": true,
+            "premium": true,
+            "ferqli": [
+                "king",
+                "check"
+            ]
+        },
+        {
+            "id": "e1a9f027",
+            "tip": "Yeni tikili",
+            "qiymet": 260000,
+            "unvan": "Nərimanov r., Təbriz küç.",
+            "otaq": 3,
+            "sahe": 100,
+            "mertebe": "8/16",
+            "elan_date": "2025.06.14",
+            "sekil": "https://i.pinimg.com/564x/4d/e3/b7/4de3b744151fc8a7ff882d4a896be71d.jpg",
+            "agentlik": "Signature Realty",
+            "vip": true,
+            "premium": true,
+            "ferqli": [
+                "percent"
+            ]
+        },
+        {
+            "id": "e1a9f028",
+            "tip": "Premium satış",
+            "qiymet": 600000,
+            "unvan": "Badamdar qəs., Villa məhəlləsi",
+            "otaq": 7,
+            "sahe": 400,
+            "mertebe": "2",
+            "elan_date": "2025.08.01",
+            "sekil": "https://i.ytimg.com/vi/_P0lsZIGoeE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCqq_UyNkNDx9YLv3FQ06vbx7uC6g",
+            "agentlik": "Elite Home",
+            "vip": true,
+            "premium": true,
+            "ferqli": [
+                "diamond",
+                "king",
+                "check"
+            ]
+        },
+        {
+            "id": "e1a9f029",
+            "tip": "Gündəlik kirayə",
+            "qiymet": 95,
+            "unvan": "Port Baku Residence",
+            "otaq": 2,
+            "sahe": 80,
+            "mertebe": "10/18",
+            "elan_date": "2025.07.25",
+            "sekil": "https://cdn.houseplansservices.com/content/1ejsiv8an572jogir72p0013mb/w991x660.jpg?v=9",
+            "agentlik": "Kings Home",
+            "vip": true,
+            "premium": true,
+            "ferqli": [
+                "percent",
+                "check"
+            ]
+        },
+        {
+            "id": "e1a9f030",
+            "tip": "Satış",
+            "qiymet": 175000,
+            "unvan": "Sumqayıt ş., 9-cu mikrorayon",
+            "otaq": 3,
+            "sahe": 95,
+            "mertebe": "5/9",
+            "elan_date": "2025.06.05",
+            "sekil": "https://cdn.houseplansservices.com/product/njk6f12i8n57vgfa5fpenhg162/w560x373.jpg?v=11",
+            "agentlik": "Home Haven Realty",
+            "vip": true,
+            "premium": true,
+            "ferqli": []
+        },
+        {
+            "id": "e1a9f031",
+            "tip": "Kirayə",
+            "qiymet": 890,
+            "unvan": "Bakıxanov qəs., Sabunçu r.",
+            "otaq": 4,
+            "sahe": 115,
+            "mertebe": "7/12",
+            "elan_date": "2025.07.15",
+            "sekil": "https://cdn.houseplansservices.com/content/dish4h6kh54e08eec1hvjfreff/w991x660.jpg?v=2",
+            "agentlik": "Monolit Real Estate",
+            "vip": true,
+            "premium": true,
+            "ferqli": [
+                "diamond"
+            ]
+        },
+        {
+            "id": "e1a9f032",
+            "tip": "Bağ evi",
+            "qiymet": 380000,
+            "unvan": "Görədil qəs., dənizdən 300m",
+            "otaq": 5,
+            "sahe": 250,
+            "mertebe": "1",
+            "elan_date": "2025.08.03",
+            "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl4nyWucV4hbENSiHvFa-TQ_Hr0JmXZ934evVF0yh_GjnvQYPYq2x9SbseWmONhM5TdU&usqp=CAU",
+            "agentlik": "Signature Realty",
+            "vip": true,
+            "premium": true,
+            "ferqli": [
+                "diamond",
                 "check"
             ]
         }
