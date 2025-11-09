@@ -11,8 +11,8 @@
     "agentlikler": [
         {
             "id": 1001,
-            "ad": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT12UlRHY0WUryxry0OrYBUyyPTafUVio5V4Q&s",
-            "sekil": "",
+            "ad": "The Henry Groupe",
+            "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT12UlRHY0WUryxry0OrYBUyyPTafUVio5V4Q&s",
             "teklif": 125
         },
         {
@@ -86,7 +86,7 @@
         {
             "id": "yk1001A",
             "ad": "Teras Park",
-            "sekil": "./Source/teraspark.png",
+            "sekil": "https://images.adsttc.com/media/images/5f17/70fc/b357/65da/b000/00a0/large_jpg/GRAFT_CharlieLiving_(c)BTTRGmbH_01.jpg?1595371743",
             "qiymet": 181200,
             "sirket": "SR Construction",
             "tehvil": "Təhvil verilib",
@@ -96,7 +96,7 @@
         {
             "id": "yk1002B",
             "ad": "White City Residence",
-            "sekil": "./Source/whitecity.png",
+            "sekil": "https://images.adsttc.com/media/images/5f17/7002/b357/65da/b000/009d/newsletter/GRAFT_CharlieLiving_(c)BTTRGmbH_08.jpg?1595371485",
             "qiymet": 220000,
             "sirket": "AzInşaat Group",
             "tehvil": "2026",
@@ -106,7 +106,7 @@
         {
             "id": "yk1003C",
             "ad": "Panorama Park",
-            "sekil": "./Source/panorama.png",
+            "sekil": "https://atlantisestates.bg/var/tinymce/upload/A01.jpg",
             "qiymet": 164500,
             "sirket": "Nova Development",
             "tehvil": "2027",
@@ -116,7 +116,7 @@
         {
             "id": "yk1004D",
             "ad": "Green City",
-            "sekil": "./Source/greencity.png",
+            "sekil": "https://images.adsttc.com/media/images/5f17/6e2a/b357/65da/b000/0094/newsletter/GRAFT_CharlieLiving_(c)BTTRGmbH_15.jpg?1595371022",
             "qiymet": 198000,
             "sirket": "Baku Invest",
             "tehvil": "Təhvil verilib",
@@ -126,7 +126,7 @@
         {
             "id": "yk1005E",
             "ad": "Sea Breeze Residence",
-            "sekil": "./Source/seabreeze.png",
+            "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8KB5OKzabI-A_i4CuPbjsTnedMMUIVRih5g&s",
             "qiymet": 350000,
             "sirket": "Sabay Group",
             "tehvil": "2025",
@@ -136,7 +136,7 @@
         {
             "id": "yk1006F",
             "ad": "Lake View Park",
-            "sekil": "./Source/lakeview.png",
+            "sekil": "https://ebbetsfieldapartments.com/wp-content/uploads/2021/11/Living-In-A-Housing-Complex.jpg",
             "qiymet": 179900,
             "sirket": "Crystal Construction",
             "tehvil": "2028",
@@ -146,7 +146,7 @@
         {
             "id": "yk1007G",
             "ad": "Metro City",
-            "sekil": "./Source/metrocity.png",
+            "sekil": "https://detail-cdn.s3.eu-central-1.amazonaws.com/media/catalog/product/t/0/t0-modularer-wohnkomplex-von-big-in-aarhus.jpg?store=de_en&image-type=image",
             "qiymet": 210500,
             "sirket": "Union Build",
             "tehvil": "2026",
@@ -156,7 +156,7 @@
         {
             "id": "yk1008H",
             "ad": "Renessans Residence",
-            "sekil": "./Source/renessans.png",
+            "sekil": "https://c8.alamy.com/comp/2H4PFYM/modern-european-residential-complex-of-apartment-buildings-outdoor-facilities-eco-friendly-living-scandinavian-architecture-helsinki-city-finland-2H4PFYM.jpg",
             "qiymet": 265000,
             "sirket": "Elegant Construction",
             "tehvil": "Təhvil verilib",
@@ -166,7 +166,7 @@
         {
             "id": "yk1009J",
             "ad": "Skyline Towers",
-            "sekil": "./Source/skyline.png",
+            "sekil": "https://www.e-architect.com/wp-content/uploads/2022/01/charlie-living-friedrichstadt-berlin-g280122-a2.jpg",
             "qiymet": 295000,
             "sirket": "SkyGroup MMC",
             "tehvil": "2027",
@@ -176,7 +176,7 @@
         {
             "id": "yk1010K",
             "ad": "Yeni Həyat Park",
-            "sekil": "./Source/yeniheyat.png",
+            "sekil": "https://www.parcelpending.com/wp-content/uploads/2021/10/8-Ways-Apartment-Complexes-Are-Evolving-in-a-Post-COVID-World.jpg",
             "qiymet": 189000,
             "sirket": "YH Construction",
             "tehvil": "2026",
