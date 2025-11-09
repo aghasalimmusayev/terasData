@@ -196,7 +196,7 @@
             "elan_date": "2025.05.16",
             "sekil": "https://www.bhg.com/thmb/H9VV9JNnKl-H1faFXnPlQfNprYw=/1799x0/filters:no_upscale():strip_icc()/white-modern-house-curved-patio-archway-c0a4a3b3-aa51b24d14d0464ea15d36e05aa85ac9.jpg",
             "agentlik": "Henry Group",
-            "vip": true,
+            "vip": false,
             "premium": true,
             "ferqli": [
                 "diamond",
@@ -217,7 +217,7 @@
             "sekil": "https://hips.hearstapps.com/hmg-prod/images/dutch-colonial-house-style-66956274903da.jpg?crop=1.00xw:0.671xh;0,0.131xh&resize=1120:*",
             "agentlik": "SR Construction",
             "vip": true,
-            "premium": true,
+            "premium": false,
             "ferqli": [
                 "check"
             ]
@@ -233,7 +233,7 @@
             "elan_date": "2025.03.05",
             "sekil": "https://thermohouse.ie/wp-content/uploads/2019/04/hero-image.jpg",
             "agentlik": "Monolit Real Estate",
-            "vip": true,
+            "vip": false,
             "premium": true,
             "ferqli": [
                 "percent"
@@ -251,7 +251,7 @@
             "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZPyMaLR6ZJNlIH2-mABajjOxvQzarOxYpphDR2ncCbF26RuafZ5TIbi6UtOGgjfx78ao&usqp=CAU",
             "agentlik": "Signature Realty",
             "vip": true,
-            "premium": true,
+            "premium": false,
             "ferqli": [
                 "diamond",
                 "check"
@@ -268,7 +268,7 @@
             "elan_date": "2025.01.15",
             "sekil": "https://www.thehousedesigners.com/images/plans/01/URD/bulk/6583/the-destination-front-rendering_m.webp",
             "agentlik": "Home Haven Realty",
-            "vip": true,
+            "vip": false,
             "premium": true,
             "ferqli": [
                 "king",
@@ -287,7 +287,7 @@
             "sekil": "https://cdn11.bigcommerce.com/s-g95xg0y1db/images/stencil/1280x1280/g/modern%20house%20plan%20-%20carbondale__05776.original.jpg",
             "agentlik": "Kings Home",
             "vip": true,
-            "premium": true,
+            "premium": false,
             "ferqli": [
                 "percent"
             ]
@@ -303,7 +303,7 @@
             "elan_date": "2025.04.01",
             "sekil": "https://www.thehousedesigners.com/images/plans/01/URD/bulk/6630/the-sunset-1-front-elevated-elevation_m.webp",
             "agentlik": "The Address Luxury",
-            "vip": true,
+            "vip": false,
             "premium": true,
             "ferqli": []
         },
@@ -319,7 +319,7 @@
             "sekil": "https://cdn.houseplansservices.com/product/qileoarqr7qk6oek5u3r39vof7/w300x200.jpg?v=5",
             "agentlik": "Henry Group",
             "vip": true,
-            "premium": true,
+            "premium": false,
             "ferqli": [
                 "diamond"
             ]
@@ -335,7 +335,7 @@
             "elan_date": "2025.04.28",
             "sekil": "https://media.istockphoto.com/id/2159247990/photo/front-view-of-modern-style-small-cottage-house-on-the-green-lawn-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=gnHL_022aV03ZpQApKdky5JLVjZEIFrc2u7xpaGnsE4=",
             "agentlik": "Signature Realty",
-            "vip": true,
+            "vip": false,
             "premium": true,
             "ferqli": [
                 "king",
@@ -354,7 +354,7 @@
             "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnw_9oTo7gfdqd_E6H2-Yns86EZn6nav1Q4Q&s",
             "agentlik": "Home Haven Realty",
             "vip": true,
-            "premium": true,
+            "premium": false,
             "ferqli": []
         },
         {
@@ -368,7 +368,7 @@
             "elan_date": "2025.06.10",
             "sekil": "https://assets-news.housing.com/news/wp-content/uploads/2022/03/31010142/Luxury-house-design-Top-10-tips-to-add-luxury-to-your-house-FEATURE-compressed-686x400.jpg",
             "agentlik": "Kings Home",
-            "vip": true,
+            "vip": false,
             "premium": true,
             "ferqli": [
                 "check"
@@ -386,7 +386,7 @@
             "sekil": "https://www.bhg.com/thmb/H9VV9JNnKl-H1faFXnPlQfNprYw=/1799x0/filters:no_upscale():strip_icc()/white-modern-house-curved-patio-archway-c0a4a3b3-aa51b24d14d0464ea15d36e05aa85ac9.jpg",
             "agentlik": "Monolit Real Estate",
             "vip": true,
-            "premium": true,
+            "premium": false,
             "ferqli": [
                 "diamond",
                 "king",
@@ -404,7 +404,7 @@
             "elan_date": "2025.05.08",
             "sekil": "https://saterdesign.com/cdn/shop/files/9024-Main-Image_1600x.jpg?v=1744743942",
             "agentlik": "Elite Home",
-            "vip": true,
+            "vip": false,
             "premium": true,
             "ferqli": [
                 "check",
@@ -423,7 +423,7 @@
             "sekil": "https://thermohouse.ie/wp-content/uploads/2019/04/hero-image.jpg",
             "agentlik": "Urban Properties",
             "vip": true,
-            "premium": true,
+            "premium": false,
             "ferqli": [
                 "king"
             ]
@@ -439,7 +439,7 @@
             "elan_date": "2025.04.18",
             "sekil": "https://houseplans.co/media/cached_assets/images/house_plan_images/1168ESrd_900x600.jpg",
             "agentlik": "City Stay",
-            "vip": true,
+            "vip": false,
             "premium": true,
             "ferqli": []
         },
@@ -455,7 +455,7 @@
             "sekil": "https://assets-news.housing.com/news/wp-content/uploads/2022/03/31010142/Luxury-house-design-Top-10-tips-to-add-luxury-to-your-house-FEATURE-compressed.jpg",
             "agentlik": "Home Haven Realty",
             "vip": true,
-            "premium": true,
+            "premium": false,
             "ferqli": [
                 "diamond"
             ]
@@ -471,7 +471,7 @@
             "elan_date": "2025.03.10",
             "sekil": "https://usvintagewood.com/wp-content/uploads/2021/05/image1-1024x683.jpg",
             "agentlik": "Azure Realty",
-            "vip": true,
+            "vip": false,
             "premium": true,
             "ferqli": [
                 "diamond",
@@ -490,7 +490,7 @@
             "sekil": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpg",
             "agentlik": "Signature Realty",
             "vip": true,
-            "premium": true,
+            "premium": false,
             "ferqli": [
                 "percent"
             ]
@@ -506,7 +506,7 @@
             "elan_date": "2025.06.18",
             "sekil": "https://webberstudio.com/wp-content/uploads/2023/02/Stunning-House-Design.jpg",
             "agentlik": "SR Construction",
-            "vip": true,
+            "vip": false,
             "premium": true,
             "ferqli": []
         },
@@ -522,7 +522,7 @@
             "sekil": "https://www.thehousedesigners.com/images/plans/01/UDC/bulk/7295/e276-gao_residence_view1_m.webp",
             "agentlik": "City Stay",
             "vip": true,
-            "premium": true,
+            "premium": false,
             "ferqli": [
                 "check"
             ]
@@ -538,7 +538,7 @@
             "elan_date": "2025.05.20",
             "sekil": "https://unique-residence.com/wp-content/uploads/2024/03/COTTAGE_HOUSE_www_1.jpg",
             "agentlik": "Monolit Real Estate",
-            "vip": true,
+            "vip": false,
             "premium": true,
             "ferqli": [
                 "diamond"
@@ -556,7 +556,7 @@
             "sekil": "https://www.thehousedesigners.com/images/plans/01/UDC/bulk/7295/e276-gao_residence_view1_m.webp",
             "agentlik": "Elite Home",
             "vip": true,
-            "premium": true,
+            "premium": false,
             "ferqli": [
                 "king",
                 "diamond",
@@ -574,7 +574,7 @@
             "elan_date": "2025.04.11",
             "sekil": "https://cdn.houseplansservices.com/content/nnuc3cqgs1456ts5tmv80464of/w991x660.jpg?v=9",
             "agentlik": "Home Haven Realty",
-            "vip": true,
+            "vip": false,
             "premium": true,
             "ferqli": [
                 "diamond",
@@ -593,7 +593,7 @@
             "sekil": "https://cdn.houseplansservices.com/content/nnuc3cqgs1456ts5tmv80464of/w991x660.jpg?v=9",
             "agentlik": "Kings Home",
             "vip": true,
-            "premium": true,
+            "premium": false,
             "ferqli": [
                 "check"
             ]
@@ -609,7 +609,7 @@
             "elan_date": "2025.07.09",
             "sekil": "https://d3qyu496o2hwvq.cloudfront.net/wp-content/uploads/2016/06/FG44850-707x475.jpg",
             "agentlik": "Urban Properties",
-            "vip": true,
+            "vip": false,
             "premium": true,
             "ferqli": []
         },
@@ -625,7 +625,7 @@
             "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsMBw2INpbR6AMQaoxlxDhSRbm6G10Nf_oDI0dH1ZCQa98IYw106eK6NPfWaLMgw4lAsE&usqp=CAU",
             "agentlik": "SR Construction",
             "vip": true,
-            "premium": true,
+            "premium": false,
             "ferqli": [
                 "king",
                 "check"
@@ -642,8 +642,8 @@
             "elan_date": "2025.06.14",
             "sekil": "https://i.pinimg.com/564x/4d/e3/b7/4de3b744151fc8a7ff882d4a896be71d.jpg",
             "agentlik": "Signature Realty",
-            "vip": true,
-            "premium": true,
+            "vip": false,
+            "premium": false,
             "ferqli": [
                 "percent"
             ]
@@ -678,8 +678,8 @@
             "elan_date": "2025.07.25",
             "sekil": "https://cdn.houseplansservices.com/content/1ejsiv8an572jogir72p0013mb/w991x660.jpg?v=9",
             "agentlik": "Kings Home",
-            "vip": true,
-            "premium": true,
+            "vip": false,
+            "premium": false,
             "ferqli": [
                 "percent",
                 "check"
@@ -711,8 +711,8 @@
             "elan_date": "2025.07.15",
             "sekil": "https://cdn.houseplansservices.com/content/dish4h6kh54e08eec1hvjfreff/w991x660.jpg?v=2",
             "agentlik": "Monolit Real Estate",
-            "vip": true,
-            "premium": true,
+            "vip": false,
+            "premium": false,
             "ferqli": [
                 "diamond"
             ]
@@ -729,7 +729,7 @@
             "sekil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWl4nyWucV4hbENSiHvFa-TQ_Hr0JmXZ934evVF0yh_GjnvQYPYq2x9SbseWmONhM5TdU&usqp=CAU",
             "agentlik": "Signature Realty",
             "vip": true,
-            "premium": true,
+            "premium": false,
             "ferqli": [
                 "diamond",
                 "check"
