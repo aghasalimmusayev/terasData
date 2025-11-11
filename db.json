@@ -208,7 +208,7 @@
         {
             "id": "e1a9f002",
             "tip": "Satış",
-            "qiymet": 181200,
+            "qiymet": 180,
             "unvan": "Binəqədi r., Azadlıq m.",
             "otaq": 3,
             "sahe": 95,
@@ -225,7 +225,7 @@
         {
             "id": "e1a9f003",
             "tip": "Kirayə",
-            "qiymet": 850,
+            "qiymet": 85,
             "unvan": "Nərimanov m., H.Əliyev pr.",
             "otaq": 3,
             "sahe": 100,
@@ -242,7 +242,7 @@
         {
             "id": "e1a9f004",
             "tip": "Satış",
-            "qiymet": 295000,
+            "qiymet": 95,
             "unvan": "Xətai r., Ağ Şəhər",
             "otaq": 4,
             "sahe": 135,
@@ -260,7 +260,7 @@
         {
             "id": "e1a9f005",
             "tip": "Bağ evi",
-            "qiymet": 320000,
+            "qiymet": 120,
             "unvan": "Mərdəkan qəs., əsas yoldan 200m",
             "otaq": 5,
             "sahe": 200,
@@ -295,7 +295,7 @@
         {
             "id": "e1a9f007",
             "tip": "Kirayə",
-            "qiymet": 700,
+            "qiymet": 70,
             "unvan": "Memar Əcəmi m., 3-cü mikrorayon",
             "otaq": 2,
             "sahe": 70,
@@ -310,7 +310,7 @@
         {
             "id": "e1a9f008",
             "tip": "Satış",
-            "qiymet": 120000,
+            "qiymet": 120,
             "unvan": "Xalqlar Dostluğu m., Nizami r.",
             "otaq": 2,
             "sahe": 65,
@@ -327,7 +327,7 @@
         {
             "id": "e1a9f009",
             "tip": "Premium satış",
-            "qiymet": 450000,
+            "qiymet": 85,
             "unvan": "Səbail r., İçərişəhər",
             "otaq": 5,
             "sahe": 210,
@@ -360,7 +360,7 @@
         {
             "id": "e1a9f011",
             "tip": "Yeni tikili",
-            "qiymet": 230000,
+            "qiymet": 130,
             "unvan": "Yasamal r., H.Cavid pr.",
             "otaq": 3,
             "sahe": 100,
@@ -377,7 +377,7 @@
         {
             "id": "e1a9f012",
             "tip": "Bağ evi",
-            "qiymet": 500000,
+            "qiymet": 150,
             "unvan": "Bilgəh, dənizə yaxın",
             "otaq": 6,
             "sahe": 300,
@@ -396,7 +396,7 @@
         {
             "id": "e1a9f013",
             "tip": "Satış",
-            "qiymet": 185000,
+            "qiymet": 85,
             "unvan": "Xətai r., Nargilə k.",
             "otaq": 3,
             "sahe": 110,
@@ -414,7 +414,7 @@
         {
             "id": "e1a9f014",
             "tip": "Kirayə",
-            "qiymet": 950,
+            "qiymet": 95,
             "unvan": "Nərimanov r., Təbriz küç.",
             "otaq": 4,
             "sahe": 120,
@@ -446,7 +446,7 @@
         {
             "id": "e1a9f016",
             "tip": "Satış",
-            "qiymet": 265000,
+            "qiymet": 165,
             "unvan": "Nizami r., Qara Qarayev pr.",
             "otaq": 4,
             "sahe": 140,
@@ -463,7 +463,7 @@
         {
             "id": "e1a9f017",
             "tip": "Bağ evi",
-            "qiymet": 420000,
+            "qiymet": 120,
             "unvan": "Şüvəlan qəs., dəniz kənarı",
             "otaq": 5,
             "sahe": 260,
@@ -481,7 +481,7 @@
         {
             "id": "e1a9f018",
             "tip": "Kirayə",
-            "qiymet": 780,
+            "qiymet": 100,
             "unvan": "Gənclik m., A.Manafov küç.",
             "otaq": 3,
             "sahe": 90,
@@ -498,7 +498,7 @@
         {
             "id": "e1a9f019",
             "tip": "Yeni tikili",
-            "qiymet": 210000,
+            "qiymet": 210,
             "unvan": "Xırdalan ş., AAAF Park yaxınlığı",
             "otaq": 3,
             "sahe": 115,
@@ -530,7 +530,7 @@
         {
             "id": "e1a9f021",
             "tip": "Satış",
-            "qiymet": 195000,
+            "qiymet": 195,
             "unvan": "Masazır qəs., Qurtuluş-93",
             "otaq": 4,
             "sahe": 125,
@@ -547,7 +547,7 @@
         {
             "id": "e1a9f022",
             "tip": "Premium satış",
-            "qiymet": 510000,
+            "qiymet": 150,
             "unvan": "Səbail r., Neftçilər pr.",
             "otaq": 6,
             "sahe": 320,
@@ -566,7 +566,7 @@
         {
             "id": "e1a9f023",
             "tip": "Bağ evi",
-            "qiymet": 370000,
+            "qiymet": 140,
             "unvan": "Novxanı qəs., dəniz kənarı",
             "otaq": 5,
             "sahe": 240,
@@ -584,7 +584,7 @@
         {
             "id": "e1a9f024",
             "tip": "Kirayə",
-            "qiymet": 650,
+            "qiymet": 65,
             "unvan": "Əhmədli m., Nizami r.",
             "otaq": 2,
             "sahe": 75,
@@ -616,7 +616,7 @@
         {
             "id": "e1a9f026",
             "tip": "Satış",
-            "qiymet": 330000,
+            "qiymet": 135,
             "unvan": "Buzovna qəs., əsas yol kənarı",
             "otaq": 5,
             "sahe": 220,
@@ -634,7 +634,7 @@
         {
             "id": "e1a9f027",
             "tip": "Yeni tikili",
-            "qiymet": 260000,
+            "qiymet": 260,
             "unvan": "Nərimanov r., Təbriz küç.",
             "otaq": 3,
             "sahe": 100,
@@ -651,7 +651,7 @@
         {
             "id": "e1a9f028",
             "tip": "Premium satış",
-            "qiymet": 600000,
+            "qiymet": 160,
             "unvan": "Badamdar qəs., Villa məhəlləsi",
             "otaq": 7,
             "sahe": 400,
@@ -688,7 +688,7 @@
         {
             "id": "e1a9f030",
             "tip": "Satış",
-            "qiymet": 175000,
+            "qiymet": 175,
             "unvan": "Sumqayıt ş., 9-cu mikrorayon",
             "otaq": 3,
             "sahe": 95,
@@ -703,7 +703,7 @@
         {
             "id": "e1a9f031",
             "tip": "Kirayə",
-            "qiymet": 890,
+            "qiymet": 90,
             "unvan": "Bakıxanov qəs., Sabunçu r.",
             "otaq": 4,
             "sahe": 115,
@@ -720,7 +720,7 @@
         {
             "id": "e1a9f032",
             "tip": "Bağ evi",
-            "qiymet": 380000,
+            "qiymet": 135,
             "unvan": "Görədil qəs., dənizdən 300m",
             "otaq": 5,
             "sahe": 250,
